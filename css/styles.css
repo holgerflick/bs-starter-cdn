@@ -1,9 +1,1 @@
-body {
-  background: greenyellow;
-}
 
-@media (min-width: 800px) {
-  .container {
-    width: 40px;
-  }
-}
